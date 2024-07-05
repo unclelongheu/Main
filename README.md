@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yunfei Long, a Phd from Harbin Engineer University
+- 👋 Hi, I’m Yunfei Long, a PhD from Harbin Engineer University
 - 👀 I’m interested in Machine Learning. Especially, generalization. 
 - 🌱 I’m currently learning Bayesian Neural Network, Flat Minima, Information-theoretic Regularization...
 - 📖 I am currently on two works: 
