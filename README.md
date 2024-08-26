@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Bayesian Neural Network, Flat Minima, Information-theoretic Regularization...
 - 📖 I am currently on two works: 
 
-1. Exploring Information-theoretic Regularization
-in Model Ensemble Attacks.
-2. A Prior Link between Bayesian Neural Network and Flat Minima
+1. Improving Transferable Targeted Attacks from Information-theoretic Perspective.
+2. Conditions that facilitate the transfer of prior flatness to the posterior distribution.
 
 - 📫 How to reach me: unclelongheu@gmail.com
